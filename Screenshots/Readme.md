@@ -5,6 +5,9 @@
 *ADF Pipeline (Initial & Incremental)*
 
 ![ADF Pipeline (Initial & Incremental)](updated%20increm%20pipeline.png)
+
+*ADF Pipeline (Git Load)*
+
 ![ADF Pipeline (Git Load)](git%20load.png)
 
 
@@ -17,8 +20,16 @@ This pipeline orchestrates the entire workflow including:
 
 ## 2. Lookup Activity (Watermark)
 
+*Lookup Current Load*
+
 ![Lookup Current Load](lookup%20current%20load.png)
+
+*Lookup Last Load*
+
 ![Lookup Last Load](lookup%20last_load.png)
+
+*Watermark table snapshot*
+
 ![Watermark table snapshot](sql%20wm2.png)
 
 Retrieves `last_load` from tracking table used for incremental loading.

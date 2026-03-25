@@ -38,6 +38,8 @@ Retrieves `last_load` from tracking table used for incremental loading.
 
 ## 3. Copy Activity (Incremental Load)
 
+*Expression used for filtering*
+
 ![Expression used for filtering](increm_data_source_2.png)
 
 Filters data using:
@@ -45,6 +47,7 @@ Filters data using:
 - Less than or equal to current load date
 
 Loads data into Bronze layer (ADLS).
+
 ![Data Loaded to Bronze Layer](storage%20acct%202.png)
 ---
 
@@ -71,7 +74,12 @@ Sample processed **Silver** data is available for reference:
 
 ## 6. Gold Layer (Star Schema)
 
+*Gold Layer - Dim_Model Screenshot*
+
 ![Gold Layer - Dim_Model Screenshot](dim_model_initial.png)
+
+*Gold Layer - Fact Table*
+
 ![Gold Layer - Fact Table](fact_table_initial.png)
 
 Final output includes:

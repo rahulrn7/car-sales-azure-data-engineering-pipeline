@@ -1,0 +1,268 @@
+Dealer_ID,DealerName,dim_dealer_key
+DLR0069,Geo Motors,1
+DLR0249,Acura Motors,2
+DLR0209,Zastava Motors,3
+DLR0189,Sunbeam Motors,4
+DLR0130,Micro Motors,5
+DLR0093,Iso Motors,6
+DLR0135,Morgan Motors,7
+DLR0170,Saleen Motors,8
+DLR0265,Bentley Motors,9
+DLR0087,Hyundai Motors,10
+DLR0167,Rolls-Royce Motors,11
+DLR0175,Saturn Motors,12
+DLR0241,Colman Automotive Building,13
+DLR0226,Das Motors,14
+DLR0166,Rivian Motors,15
+DLR0048,De Tomaso Motors,16
+DLR0078,Hennessey Motors,17
+DLR0008,Anadol Motors,18
+DLR0217,Izh  Motors,19
+DLR0219,MG  Motors,20
+DLR0260,Aston Martin Motors,21
+DLR0020,BMW Motors,22
+DLR0207,Westfield Motors,23
+DLR0250,Aixam-Mega (including Arola) Motors,24
+DLR0172,San Motors,25
+DLR0028,Buick Motors,26
+DLR0179,Simca Motors,27
+DLR0035,Chrysler Motors,28
+DLR0164,Reliant Motors,29
+DLR0039,Dacia Motors,30
+DLR0029,Bytom Motors,31
+DLR0136,Moskwitch Motors,32
+DLR0061,Ford America Motors,33
+DLR0041,DAF Motors,34
+DLR0065,Ford India Motors,35
+DLR0128,Messerschmitt Motors,36
+DLR0092,Isdera Motors,37
+DLR0153,Peugeot Motors,38
+DLR0095,Isuzu Motors,39
+DLR0076,Healey Motors,40
+DLR0223,Wolseley  Motors,41
+DLR0124,McLaren Motors,42
+DLR0146,Packard Motors,43
+DLR0234,Bohn Motor Company Automobile Dealership,44
+DLR0237,Casa de cadillac,45
+DLR0122,Mazda Motors,46
+DLR0056,Ferrari Motors,47
+DLR0185,SsangYong Motors,48
+DLR0106,Lancia Motors,49
+DLR0102,Koenigsegg Motors,50
+DLR0001,AC Cars Motors,51
+DLR0188,Subaru Motors,52
+DLR0151,Peel Motors,53
+DLR0155,Piaggio Motors,54
+DLR0082,Honda Motors,55
+DLR0222,Riley  Motors,56
+DLR0243,Howard Motor Company Building,57
+DLR0244,Hupmobile Building,58
+DLR0019,Bitter Motors,59
+DLR0230,Zion Automobils,60
+DLR0261,Audi Motors,61
+DLR0181,Singer Motors,62
+DLR0182,Skoda Motors,63
+DLR0063,Ford do Brasil Motors,64
+DLR0044,,65
+DLR0068,GAZ Motors,66
+DLR0208,Wiesmann Motors,67
+DLR0089,Infiniti Motors,68
+DLR0070,Gilbern Motors,69
+DLR0252,Alpine Motors,70
+DLR0152,Perodua Motors,71
+DLR0112,LTI Motors,72
+DLR0193,Tazzari Motors,73
+DLR0169,SAIC Motor Motors,74
+DLR0134,Monteverdi Motors,75
+DLR0156,Plymouth Motors,76
+DLR0096,Iveco Motors,77
+DLR0199,TVR Motors,78
+DLR0032,Checker Motors,79
+DLR0184,Spyker Motors,80
+DLR0254,"AMC, Eagle Motors",81
+DLR0108,Lexus Motors,82
+DLR0232,2008 NRHP-listed,83
+DLR0213,DKW Motors,84
+DLR0009,Ariel Motors,85
+DLR0100,JPX Motors,86
+DLR0266,Bitter Motors,87
+DLR0148,Panhard Motors,88
+DLR0031,Caterham Motors,89
+DLR0118,Maruti Motors,90
+DLR0015,Autobianchi Motors,91
+DLR0186,Standard-Triumph Motors,92
+DLR0040,"Daewoo, Saehan, Chevrolet Korea Motors",93
+DLR0187,Studebaker Motors,94
+DLR0021,Bond Motors,95
+DLR0047,DeSoto Motors,96
+DLR0064,Ford Europe Motors,97
+DLR0066,Freightliner Motors,98
+DLR0221,Austin  Motors,99
+DLR0097,Jaguar Motors,100
+DLR0084,Hudson Motors,101
+DLR0109,Ligier Motors,102
+DLR0214,Horch Motors,103
+DLR0194,Tesla Motors,104
+DLR0094,Isotta Fraschini Motors,105
+DLR0075,Gumpert Motors,106
+DLR0215,Wanderer Motors,107
+DLR0258,,108
+DLR0201,Vauxhall Motors,109
+DLR0204,Volkswagen do Brasil Motors,110
+DLR0144,,111
+DLR0086,Hummer Motors,112
+DLR0176,Scion Motors,113
+DLR0054,Elva Motors,114
+DLR0262,Autobianchi Motors,115
+DLR0062,Ford Australia Motors,116
+DLR0043,Daimler Motors,117
+DLR0098,Jeep Motors,118
+DLR0088,"IFA (including Trabant, Wartburg, Barkas) Motors",119
+DLR0072,Glas Motors,120
+DLR0196,Toyota Motors,121
+DLR0013,Aston Martin Motors,122
+DLR0160,Premier Motors,123
+DLR0081,Holden Motors,124
+DLR0023,Bristol Motors,125
+DLR0014,Audi Motors,126
+DLR0025,Austin-Healey Motors,127
+DLR0049,Dodge Motors,128
+DLR0239,Claremore Auto Dealership,129
+DLR0055,Facel Vega Motors,130
+DLR0228,Deccan Motors,131
+DLR0168,Saab Motors,132
+DLR0150,Panther Motors,133
+DLR0007,"AMC, Eagle Motors",134
+DLR0197,Toyota India Motors,135
+DLR0080,Hindustan Motors,136
+DLR0083,Honda India Motors,137
+DLR0263,Auto-Union Motors,138
+DLR0104,Lada Motors,139
+DLR0205,Volkswagen South Africa Motors,140
+DLR0227,Ramani Motors,141
+DLR0024,British Leyland Motors,142
+DLR0026,"Austin, Rover Motors",143
+DLR0264,Auverland Motors,144
+DLR0058,Fiat do Brasil Motors,145
+DLR0210,ZAZ Motors,146
+DLR0132,Mitsubishi Motors,147
+DLR0073,GMC Motors,148
+DLR0137,Nash Motors,149
+DLR0012,Asia Motors Motors,150
+DLR0099,Jensen Motors,151
+DLR0120,Mastretta Motors,152
+DLR0141,Noble Motors,153
+DLR0242,H Street Playhouse,154
+DLR0202,Venturi Motors,155
+DLR0246,Jones Motor Company,156
+DLR0206,Volvo Motors,157
+DLR0247,Kindel Building,158
+DLR0107,Land Rover Motors,159
+DLR0010,ARO Motors,160
+DLR0163,Ranger Motors,161
+DLR0057,Fiat Motors,162
+DLR0059,Fiat India Motors,163
+DLR0220,Morris  Motors,164
+DLR0162,Puma Motors,165
+DLR0129,Mia Motors,166
+DLR0006,Alvis Motors,167
+DLR0195,Tornado Motors,168
+DLR0159,Porsche Motors,169
+DLR0240,Clemens Automobile Company Building,170
+DLR0140,Nissan India Motors,171
+DLR0101,Kia Motors,172
+DLR0245,Jennings Ford Automobile Dealership,173
+DLR0125,Mercedes-Benz (including Maybach) Motors,174
+DLR0090,,175
+DLR0111,Lotus Motors,176
+DLR0174,Santana Motors,177
+DLR0173,Santa Matilde Motors,178
+DLR0183,Smart Motors,179
+DLR0180,Simca do Brasil Motors,180
+DLR0060,"Fisker, Karma Motors",181
+DLR0067,FSO Motors,182
+DLR0085,Humber Motors,183
+DLR0253,Alvis Motors,184
+DLR0235,Buick Automobile Company Building,185
+DLR0218,Lagonda  Motors,186
+DLR0121,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",187
+DLR0123,Mazzanti Motors,188
+DLR0103,KTM Motors,189
+DLR0017,Auverland Motors,190
+DLR0018,Bentley Motors,191
+DLR0022,Borgward (including Goliath and Lloyd) Motors,192
+DLR0115,Mahindra Motors,193
+DLR0177,Seat Motors,194
+DLR0033,Chevrolet Motors,195
+DLR0036,Chrysler Europe Motors,196
+DLR0042,Daihatsu Motors,197
+DLR0050,Donkervoort Motors,198
+DLR0229,Herald Motors,199
+DLR0149,Panoz Motors,200
+DLR0231,Atlantic Motor Company,201
+DLR0191,Tata Motors,202
+DLR0131,Mini Motors,203
+DLR0113,LuAZ Motors,204
+DLR0114,Lynx Motors,205
+DLR0256,Ariel Motors,206
+DLR0116,Marcos Motors,207
+DLR0011,Artega Motors,208
+DLR0224,Standard  Motors,209
+DLR0158,"Pontiac, Asüna Motors",210
+DLR0034,Chevrolet India Motors,211
+DLR0165,Renault Motors,212
+DLR0145,Opel Motors,213
+DLR0198,Turner Motors,214
+DLR0203,Volkswagen Motors,215
+DLR0077,Heinkel Motors,216
+DLR0190,Suzuki Motors,217
+DLR0004,Alfa Romeo Motors,218
+DLR0071,Ginetta Motors,219
+DLR0212,,220
+DLR0192,Tatra Motors,221
+DLR0216,Maybach  Motors,222
+DLR0238,Cass Motor Sales,223
+DLR0259,Asia Motors Motors,224
+DLR0105,Lamborghini Motors,225
+DLR0126,Mercury Motors,226
+DLR0267,BMW Motors,227
+DLR0211,ZIL Motors,228
+DLR0030,Cadillac Motors,229
+DLR0157,Polestar Motors,230
+DLR0117,Marlin Motors,231
+DLR0161,Proton Motors,232
+DLR0142,NSU Motors,233
+DLR0225,Talbot  Motors,234
+DLR0027,Bugatti Motors,235
+DLR0053,Eicher Polaris Motors,236
+DLR0037,Citroën Motors,237
+DLR0079,Hillman Motors,238
+DLR0002,Acura Motors,239
+DLR0251,Alfa Romeo Motors,240
+DLR0091,Invicta Motors,241
+DLR0133,Monica Motors,242
+DLR0074,GTA Spano Motors,243
+DLR0154,PGO Motors,244
+DLR0236,Cadillac Automobile Company Building,245
+DLR0257,ARO Motors,246
+DLR0139,Nissan Motors,247
+DLR0119,Maserati Motors,248
+DLR0016,Auto-Union Motors,249
+DLR0171,Samsung Motors,250
+DLR0147,Pagani Motors,251
+DLR0127,Merkur Motors,252
+DLR0045,Delahaye Motors,253
+DLR0178,Shelby SuperCars Motors,254
+DLR0110,Lincoln Motors,255
+DLR0005,Alpine Motors,256
+DLR0233,Blankinship Motor Company Building,257
+DLR0255,Anadol Motors,258
+DLR0138,Naza Motors,259
+DLR0200,UAZ Motors,260
+DLR0143,Oldsmobile Motors,261
+DLR0248,AC Cars Motors,262
+DLR0003,Aixam-Mega (including Arola) Motors,263
+DLR0038,Cizeta-Moroder Motors,264
+DLR0046,DeLorean Motors,265
+DLR0051,Edsel Motors,266
+DLR0052,e.GO Mobile Motors,267

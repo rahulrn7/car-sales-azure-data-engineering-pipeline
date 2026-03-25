@@ -1,0 +1,1841 @@
+Branch_ID,BranchName,dim_branch_key
+BR0004,AC Cars Motors,1
+BR0012,Acura Motors,2
+BR0013,Acura Motors,3
+BR0015,Acura Motors,4
+BR0051,Alvis Motors,5
+BR0069,"AMC, Eagle Motors",6
+BR0072,Anadol Motors,7
+BR0077,Anadol Motors,8
+BR0078,Anadol Motors,9
+BR0081,Ariel Motors,10
+BR0120,Asia Motors Motors,11
+BR0130,Aston Martin Motors,12
+BR0131,Audi Motors,13
+BR0182,Bitter Motors,14
+BR0199,BMW Motors,15
+BR0200,BMW Motors,16
+BR0201,Bond Motors,17
+BR0203,Bond Motors,18
+BR0219,Borgward (including Goliath and Lloyd) Motors,19
+BR0240,British Leyland Motors,20
+BR0252,"Austin, Rover Motors",21
+BR0341,Chrysler Motors,22
+BR0344,Chrysler Motors,23
+BR0363,Citroën Motors,24
+BR0382,Dacia Motors,25
+BR0392,"Daewoo, Saehan, Chevrolet Korea Motors",26
+BR0459,DeLorean Motors,27
+BR0461,DeSoto Motors,28
+BR0488,Dodge Motors,29
+BR0493,Donkervoort Motors,30
+BR0501,Edsel Motors,31
+BR0569,Fiat Motors,32
+BR0578,Fiat do Brasil Motors,33
+BR0591,"Fisker, Karma Motors",34
+BR0642,Ford India Motors,35
+BR0657,Freightliner Motors,36
+BR0690,Geo Motors,37
+BR0710,Ginetta Motors,38
+BR0727,GMC Motors,39
+BR0748,Gumpert Motors,40
+BR0760,Healey Motors,41
+BR0789,Hillman Motors,42
+BR0792,Hindustan Motors,43
+BR0819,Honda Motors,44
+BR0843,Humber Motors,45
+BR0852,Hummer Motors,46
+BR0888,Infiniti Motors,47
+BR0894,Innocenti Motors,48
+BR0901,Invicta Motors,49
+BR0919,Isdera Motors,50
+BR0930,Iso Motors,51
+BR0938,Isotta Fraschini Motors,52
+BR0972,Jeep Motors,53
+BR0997,JPX Motors,54
+BR1027,KTM Motors,55
+BR1034,Lada Motors,56
+BR1040,Lada Motors,57
+BR1060,Lancia Motors,58
+BR1065,Land Rover Motors,59
+BR1099,Lincoln Motors,60
+BR1113,LTI Motors,61
+BR1123,LuAZ Motors,62
+BR1138,Lynx Motors,63
+BR1152,Marcos Motors,64
+BR1214,Mazda Motors,65
+BR1238,McLaren Motors,66
+BR1249,Mercedes-Benz (including Maybach) Motors,67
+BR1252,Mercury Motors,68
+BR1253,Mercury Motors,69
+BR12906,Maybach  Motors,70
+BR13626,Deccan Motors,71
+BR1407,Noble Motors,72
+BR1431,Oltcit Motors,73
+BR1449,Opel Motors,74
+BR1451,Packard Motors,75
+BR14706,Jones Motor Company,76
+BR1492,Panther Motors,77
+BR1547,Piaggio Motors,78
+BR1554,Plymouth Motors,79
+BR1557,Plymouth Motors,80
+BR1562,Polestar Motors,81
+BR1598,Premier Motors,82
+BR1602,Proton Motors,83
+BR1690,SAIC Motor Motors,84
+BR1770,Seat Motors,85
+BR1792,Simca do Brasil Motors,86
+BR1799,Simca do Brasil Motors,87
+BR1807,Singer Motors,88
+BR1824,Smart Motors,89
+BR1843,SsangYong Motors,90
+BR1868,Studebaker Motors,91
+BR1894,Suzuki Motors,92
+BR1905,Tata Motors,93
+BR1911,Tatra Motors,94
+BR1955,Toyota Motors,95
+BR2049,Volkswagen South Africa Motors,96
+BR2061,Westfield Motors,97
+BR2068,Westfield Motors,98
+BR2088,Zastava Motors,99
+BR2099,ZAZ Motors,100
+BR2107,ZIL Motors,101
+BR2128,DKW Motors,102
+BR2130,DKW Motors,103
+BR2258,Das Motors,104
+BR2305,Atlantic Motor Company,105
+BR2346,"Daewoo, Saehan, Chevrolet Korea Motors",106
+BR2377,Cass Motor Sales,107
+BR2407,Colman Automotive Building,108
+BR2411,H Street Playhouse,109
+BR5586,Isotta Fraschini Motors,110
+BR5826,Jeep Motors,111
+BR6006,Kia Motors,112
+BR6126,KTM Motors,113
+BR8406,Noble Motors,114
+BR8646,Opel Motors,115
+BR9426,"Pontiac, Asüna Motors",116
+BR0027,Aixam-Mega (including Arola) Motors,117
+BR0032,Alfa Romeo Motors,118
+BR0040,Alfa Romeo Motors,119
+BR0055,Alvis Motors,120
+BR0059,Alvis Motors,121
+BR0215,Borgward (including Goliath and Lloyd) Motors,122
+BR0290,Bytom Motors,123
+BR0310,Caterham Motors,124
+BR0328,Chevrolet Motors,125
+BR0329,Chevrolet Motors,126
+BR0350,Chrysler Motors,127
+BR0395,"Daewoo, Saehan, Chevrolet Korea Motors",128
+BR0400,"Daewoo, Saehan, Chevrolet Korea Motors",129
+BR0426,Anadol Motors,130
+BR0434,Datsun Motors,131
+BR0441,Delahaye Motors,132
+BR0443,Delahaye Motors,133
+BR0458,DeLorean Motors,134
+BR0474,De Tomaso Motors,135
+BR0497,Donkervoort Motors,136
+BR0505,Edsel Motors,137
+BR0527,Eicher Polaris Motors,138
+BR0561,Fiat Motors,139
+BR0610,Ford America Motors,140
+BR0627,Ford do Brasil Motors,141
+BR0694,Gilbern Motors,142
+BR0718,Glas Motors,143
+BR0784,Hillman Motors,144
+BR0868,Hyundai Motors,145
+BR0900,Innocenti Motors,146
+BR0902,Invicta Motors,147
+BR0940,Isotta Fraschini Motors,148
+BR0949,Isuzu Motors,149
+BR0955,Iveco Motors,150
+BR0967,Jaguar Motors,151
+BR1001,Kia Motors,152
+BR1107,Lotus Motors,153
+BR1110,Lotus Motors,154
+BR1117,LTI Motors,155
+BR1143,Mahindra Motors,156
+BR1158,Marcos Motors,157
+BR1188,Maserati Motors,158
+BR11946,UAZ Motors,159
+BR1209,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",160
+BR1219,Mazda Motors,161
+BR12246,Volkswagen South Africa Motors,162
+BR1234,McLaren Motors,163
+BR1235,McLaren Motors,164
+BR1288,Mia Motors,165
+BR1298,Micro Motors,166
+BR1304,Mini Motors,167
+BR1305,Mini Motors,168
+BR13086,MG  Motors,169
+BR1332,Monteverdi Motors,170
+BR13386,Standard  Motors,171
+BR1347,Morgan Motors,172
+BR1378,Naza Motors,173
+BR1390,Nissan Motors,174
+BR1420,NSU Motors,175
+BR1425,Oldsmobile Motors,176
+BR1522,Peugeot Motors,177
+BR1523,Peugeot Motors,178
+BR1549,Piaggio Motors,179
+BR1558,Plymouth Motors,180
+BR1567,Polestar Motors,181
+BR1590,Porsche Motors,182
+BR1611,Puma Motors,183
+BR1635,Reliant Motors,184
+BR1659,Rivian Motors,185
+BR1668,Rolls-Royce Motors,186
+BR1710,Samsung Motors,187
+BR1719,San Motors,188
+BR1725,Santa Matilde Motors,189
+BR1733,Santana Motors,190
+BR1745,Saturn Motors,191
+BR1777,Shelby SuperCars Motors,192
+BR1795,Simca do Brasil Motors,193
+BR1805,Singer Motors,194
+BR1815,Skoda Motors,195
+BR1842,SsangYong Motors,196
+BR1847,SsangYong Motors,197
+BR1863,Studebaker Motors,198
+BR1871,Subaru Motors,199
+BR1935,Tesla Motors,200
+BR1939,Tesla Motors,201
+BR1951,Toyota Motors,202
+BR1962,Toyota India Motors,203
+BR2028,Volkswagen Motors,204
+BR2040,Volkswagen do Brasil Motors,205
+BR2063,Westfield Motors,206
+BR2087,Zastava Motors,207
+BR2091,ZAZ Motors,208
+BR2104,ZIL Motors,209
+BR2134,Horch Motors,210
+BR2147,Wanderer Motors,211
+BR2148,Wanderer Motors,212
+BR2155,Maybach  Motors,213
+BR2195,Morris  Motors,214
+BR2202,Austin  Motors,215
+BR2229,Wolseley  Motors,216
+BR2230,Wolseley  Motors,217
+BR2243,Talbot  Motors,218
+BR2285,Herald Motors,219
+BR2309,Atlantic Motor Company,220
+BR2335,Bohn Motor Company Automobile Dealership,221
+BR2338,Bohn Motor Company Automobile Dealership,222
+BR2353,Cadillac Automobile Company Building,223
+BR2406,DAF Motors,224
+BR3306,Ferrari Motors,225
+BR4446,Gumpert Motors,226
+BR5106,Hummer Motors,227
+BR7686,Mia Motors,228
+BR8106,Moskwitch Motors,229
+BR0019,Acura Motors,230
+BR0028,Aixam-Mega (including Arola) Motors,231
+BR0038,Alfa Romeo Motors,232
+BR0043,Alpine Motors,233
+BR0073,Anadol Motors,234
+BR0082,Ariel Motors,235
+BR0135,Audi Motors,236
+BR0144,Autobianchi Motors,237
+BR0145,Autobianchi Motors,238
+BR0164,Auverland Motors,239
+BR0179,Bentley Motors,240
+BR0193,BMW Motors,241
+BR0294,Cadillac Motors,242
+BR0403,DAF Motors,243
+BR0429,Daimler Motors,244
+BR0439,Datsun Motors,245
+BR0483,Dodge Motors,246
+BR0519,e.GO Mobile Motors,247
+BR0531,Elva Motors,248
+BR0565,Fiat Motors,249
+BR0577,Fiat do Brasil Motors,250
+BR0645,Ford India Motors,251
+BR0660,Freightliner Motors,252
+BR0662,FSO Motors,253
+BR0697,Gilbern Motors,254
+BR0708,Ginetta Motors,255
+BR0745,Gumpert Motors,256
+BR0762,Heinkel Motors,257
+BR0765,Heinkel Motors,258
+BR0787,Hillman Motors,259
+BR0801,Holden Motors,260
+BR0814,Honda Motors,261
+BR0839,Hudson Motors,262
+BR0865,Hyundai Motors,263
+BR0871,"IFA (including Trabant, Wartburg, Barkas) Motors",264
+BR0893,Innocenti Motors,265
+BR0895,Innocenti Motors,266
+BR0898,Innocenti Motors,267
+BR0912,Isdera Motors,268
+BR0913,Isdera Motors,269
+BR0959,Iveco Motors,270
+BR1025,KTM Motors,271
+BR10566,Seat Motors,272
+BR1067,Land Rover Motors,273
+BR1098,Lincoln Motors,274
+BR11106,Standard-Triumph Motors,275
+BR1130,LuAZ Motors,276
+BR1170,Marlin Motors,277
+BR1171,Maruti Motors,278
+BR1178,Maruti Motors,279
+BR1180,Maruti Motors,280
+BR11826,Turner Motors,281
+BR1190,Maserati Motors,282
+BR1202,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",283
+BR1220,Mazda Motors,284
+BR1228,Mazzanti Motors,285
+BR1239,McLaren Motors,286
+BR1275,Messerschmitt Motors,287
+BR1340,Monteverdi Motors,288
+BR1371,Naza Motors,289
+BR1384,Nissan Motors,290
+BR1388,Nissan Motors,291
+BR1397,Nissan India Motors,292
+BR13986,Bohn Motor Company Automobile Dealership,293
+BR1404,Noble Motors,294
+BR14586,Hupmobile Building,295
+BR1464,Pagani Motors,296
+BR1504,Peel Motors,297
+BR1569,Polestar Motors,298
+BR1570,Polestar Motors,299
+BR1579,"Pontiac, Asüna Motors",300
+BR1595,Premier Motors,301
+BR1617,Puma Motors,302
+BR1630,Ranger Motors,303
+BR1637,Reliant Motors,304
+BR1649,Renault Motors,305
+BR1658,Rivian Motors,306
+BR1669,Rolls-Royce Motors,307
+BR1678,Saab Motors,308
+BR1680,Saab Motors,309
+BR1686,Bytom Motors,310
+BR1778,Shelby SuperCars Motors,311
+BR1804,Singer Motors,312
+BR1808,Singer Motors,313
+BR1811,Skoda Motors,314
+BR1833,Spyker Motors,315
+BR1849,SsangYong Motors,316
+BR1865,Studebaker Motors,317
+BR1869,Studebaker Motors,318
+BR1880,Subaru Motors,319
+BR1901,Tata Motors,320
+BR1910,Tata Motors,321
+BR1937,Tesla Motors,322
+BR1940,Tesla Motors,323
+BR1999,UAZ Motors,324
+BR2011,Venturi Motors,325
+BR2019,Venturi Motors,326
+BR2025,Volkswagen Motors,327
+BR2027,Volkswagen Motors,328
+BR2034,Volkswagen do Brasil Motors,329
+BR2082,Zastava Motors,330
+BR2084,Zastava Motors,331
+BR2089,Zastava Motors,332
+BR2095,ZAZ Motors,333
+BR2100,ZAZ Motors,334
+BR2131,Horch Motors,335
+BR2133,Horch Motors,336
+BR2149,Wanderer Motors,337
+BR2208,Austin  Motors,338
+BR2278,Deccan Motors,339
+BR2291,Zion Automobils,340
+BR2324,Blankinship Motor Company Building,341
+BR2334,Bohn Motor Company Automobile Dealership,342
+BR2344,Buick Automobile Company Building,343
+BR2427,Howard Motor Company Building,344
+BR2448,Jennings Ford Automobile Dealership,345
+BR2464,Kindel Building,346
+BR2467,Kindel Building,347
+BR2468,Kindel Building,348
+BR3186,Elva Motors,349
+BR3786,Ford Europe Motors,350
+BR3906,Freightliner Motors,351
+BR5466,Isdera Motors,352
+BR6186,Lada Motors,353
+BR7326,Mazzanti Motors,354
+BR7866,Mitsubishi Motors,355
+BR9186,PGO Motors,356
+BR0005,AC Cars Motors,357
+BR0008,AC Cars Motors,358
+BR0044,Alpine Motors,359
+BR0080,Anadol Motors,360
+BR0085,Ariel Motors,361
+BR0087,Ariel Motors,362
+BR0089,Ariel Motors,363
+BR0098,ARO Motors,364
+BR0141,Autobianchi Motors,365
+BR0173,Bentley Motors,366
+BR0228,Bristol Motors,367
+BR0272,Buick Motors,368
+BR0274,Buick Motors,369
+BR0279,Buick Motors,370
+BR0299,Cadillac Motors,371
+BR0308,Caterham Motors,372
+BR0364,Citroën Motors,373
+BR0371,Cizeta-Moroder Motors,374
+BR0418,Daihatsu Motors,375
+BR0435,Datsun Motors,376
+BR0442,Delahaye Motors,377
+BR0445,Delahaye Motors,378
+BR0451,DeLorean Motors,379
+BR0471,De Tomaso Motors,380
+BR0484,Dodge Motors,381
+BR0494,Donkervoort Motors,382
+BR0500,Donkervoort Motors,383
+BR0528,Eicher Polaris Motors,384
+BR0539,Elva Motors,385
+BR0631,Ford Europe Motors,386
+BR0633,Ford Europe Motors,387
+BR0638,Ford Europe Motors,388
+BR0650,Ford India Motors,389
+BR0672,GAZ Motors,390
+BR0702,Ginetta Motors,391
+BR0704,Ginetta Motors,392
+BR0721,GMC Motors,393
+BR0778,Hennessey Motors,394
+BR0786,Audi Motors,395
+BR0791,Hindustan Motors,396
+BR0909,Invicta Motors,397
+BR0921,Iso Motors,398
+BR0941,Isuzu Motors,399
+BR0942,Isuzu Motors,400
+BR1017,Koenigsegg Motors,401
+BR10386,Santana Motors,402
+BR1043,Lamborghini Motors,403
+BR1048,Lamborghini Motors,404
+BR1055,Lancia Motors,405
+BR1074,Lexus Motors,406
+BR1080,Lexus Motors,407
+BR1087,Ligier Motors,408
+BR1088,Ligier Motors,409
+BR1093,Lincoln Motors,410
+BR1118,LTI Motors,411
+BR1150,Mahindra Motors,412
+BR1151,Marcos Motors,413
+BR1208,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",414
+BR1222,Mazzanti Motors,415
+BR1263,Merkur Motors,416
+BR1266,Borgward (including Goliath and Lloyd) Motors,417
+BR1270,Merkur Motors,418
+BR1292,Micro Motors,419
+BR1293,Micro Motors,420
+BR1323,Monica Motors,421
+BR1333,Monteverdi Motors,422
+BR1370,Nash Motors,423
+BR1395,Nissan India Motors,424
+BR1403,Noble Motors,425
+BR1408,Noble Motors,426
+BR1477,Panhard Motors,427
+BR1493,Panther Motors,428
+BR1503,Peel Motors,429
+BR1512,Perodua Motors,430
+BR1541,Piaggio Motors,431
+BR1593,Premier Motors,432
+BR1629,Ranger Motors,433
+BR1673,Saab Motors,434
+BR1689,SAIC Motor Motors,435
+BR1700,Saleen Motors,436
+BR1718,San Motors,437
+BR1754,Scion Motors,438
+BR1771,Shelby SuperCars Motors,439
+BR1860,Standard-Triumph Motors,440
+BR1867,Studebaker Motors,441
+BR1895,Suzuki Motors,442
+BR1903,Tata Motors,443
+BR1915,Tatra Motors,444
+BR1941,Tornado Motors,445
+BR1993,UAZ Motors,446
+BR2031,Volkswagen do Brasil Motors,447
+BR2050,Volkswagen South Africa Motors,448
+BR2103,ZIL Motors,449
+BR2121,DKW Motors,450
+BR2153,Maybach  Motors,451
+BR2174,Lagonda  Motors,452
+BR2187,MG  Motors,453
+BR2191,Morris  Motors,454
+BR2217,Riley  Motors,455
+BR2240,Standard  Motors,456
+BR2245,Talbot  Motors,457
+BR2250,Talbot  Motors,458
+BR2260,Das Motors,459
+BR2283,Herald Motors,460
+BR2286,Dacia Motors,461
+BR2319,2008 NRHP-listed,462
+BR2345,Buick Automobile Company Building,463
+BR2352,Cadillac Automobile Company Building,464
+BR2361,Casa de cadillac,465
+BR2367,Casa de cadillac,466
+BR2372,Cass Motor Sales,467
+BR2380,Cass Motor Sales,468
+BR2392,Clemens Automobile Company Building,469
+BR2404,Colman Automotive Building,470
+BR2421,Howard Motor Company Building,471
+BR2431,Hupmobile Building,472
+BR2445,Jennings Ford Automobile Dealership,473
+BR2447,Jennings Ford Automobile Dealership,474
+BR2455,Jones Motor Company,475
+BR2470,Kindel Building,476
+BR2646,Delahaye Motors,477
+BR2706,DeLorean Motors,478
+BR4146,Gilbern Motors,479
+BR5946,JPX Motors,480
+BR6606,Lotus Motors,481
+BR8586,Oltcit Motors,482
+BR9066,Perodua Motors,483
+BR0071,Anadol Motors,484
+BR0092,ARO Motors,485
+BR0129,Aston Martin Motors,486
+BR0152,Auto-Union Motors,487
+BR0169,Auverland Motors,488
+BR0175,Bentley Motors,489
+BR0191,BMW Motors,490
+BR0211,Borgward (including Goliath and Lloyd) Motors,491
+BR0213,Borgward (including Goliath and Lloyd) Motors,492
+BR0285,Bytom Motors,493
+BR0309,Caterham Motors,494
+BR0332,Chevrolet India Motors,495
+BR0405,DAF Motors,496
+BR0412,Daihatsu Motors,497
+BR0413,Daihatsu Motors,498
+BR0423,Daimler Motors,499
+BR0462,DeSoto Motors,500
+BR0523,Eicher Polaris Motors,501
+BR0524,Eicher Polaris Motors,502
+BR0537,Elva Motors,503
+BR0592,"Fisker, Karma Motors",504
+BR0604,Ford America Motors,505
+BR0607,Ford America Motors,506
+BR0654,Freightliner Motors,507
+BR0680,GAZ Motors,508
+BR0682,Geo Motors,509
+BR0693,Gilbern Motors,510
+BR0699,Gilbern Motors,511
+BR0713,Glas Motors,512
+BR0714,Glas Motors,513
+BR0726,Aston Martin Motors,514
+BR0734,GTA Spano Motors,515
+BR0802,Holden Motors,516
+BR0817,Honda Motors,517
+BR0829,Honda India Motors,518
+BR0837,Hudson Motors,519
+BR0842,Humber Motors,520
+BR0890,Infiniti Motors,521
+BR0905,Invicta Motors,522
+BR0928,Iso Motors,523
+BR0961,Jaguar Motors,524
+BR0969,Jaguar Motors,525
+BR0984,Jensen Motors,526
+BR0985,Jensen Motors,527
+BR1044,Lamborghini Motors,528
+BR1061,Land Rover Motors,529
+BR11286,Sunbeam Motors,530
+BR1172,Maruti Motors,531
+BR1197,Mastretta Motors,532
+BR1207,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",533
+BR1301,Mini Motors,534
+BR1320,Mitsubishi Motors,535
+BR1348,Morgan Motors,536
+BR1413,NSU Motors,537
+BR1452,Packard Motors,538
+BR1465,Pagani Motors,539
+BR1507,Peel Motors,540
+BR1525,Peugeot Motors,541
+BR1528,Peugeot Motors,542
+BR1531,PGO Motors,543
+BR1543,Piaggio Motors,544
+BR1568,Polestar Motors,545
+BR1623,Ranger Motors,546
+BR1643,Renault Motors,547
+BR1655,Rivian Motors,548
+BR1663,Rolls-Royce Motors,549
+BR1667,Rolls-Royce Motors,550
+BR1687,SAIC Motor Motors,551
+BR1752,Scion Motors,552
+BR1765,Seat Motors,553
+BR1838,Spyker Motors,554
+BR1841,SsangYong Motors,555
+BR1855,Standard-Triumph Motors,556
+BR1877,Subaru Motors,557
+BR1878,Subaru Motors,558
+BR1902,Tata Motors,559
+BR1918,Tatra Motors,560
+BR2064,Westfield Motors,561
+BR2075,Wiesmann Motors,562
+BR2077,Wiesmann Motors,563
+BR2080,Wiesmann Motors,564
+BR2122,DKW Motors,565
+BR2150,Wanderer Motors,566
+BR2178,Lagonda  Motors,567
+BR2199,Morris  Motors,568
+BR2211,Riley  Motors,569
+BR2223,Wolseley  Motors,570
+BR2264,Ramani Motors,571
+BR2275,Deccan Motors,572
+BR2284,Herald Motors,573
+BR2312,2008 NRHP-listed,574
+BR2320,2008 NRHP-listed,575
+BR2321,Blankinship Motor Company Building,576
+BR2410,Colman Automotive Building,577
+BR2420,H Street Playhouse,578
+BR2451,Jones Motor Company,579
+BR4926,Honda India Motors,580
+BR4986,Hudson Motors,581
+BR5646,Isuzu Motors,582
+BR7026,Maruti Motors,583
+BR8886,Panoz Motors,584
+BR0020,Acura Motors,585
+BR0029,Aixam-Mega (including Arola) Motors,586
+BR0035,Alfa Romeo Motors,587
+BR0041,Alpine Motors,588
+BR0122,Aston Martin Motors,589
+BR0138,Audi Motors,590
+BR0165,Auverland Motors,591
+BR0189,Bitter Motors,592
+BR0232,British Leyland Motors,593
+BR0255,"Austin, Rover Motors",594
+BR0271,Buick Motors,595
+BR0295,Cadillac Motors,596
+BR0404,DAF Motors,597
+BR0450,Delahaye Motors,598
+BR0457,DeLorean Motors,599
+BR0490,Dodge Motors,600
+BR0509,Edsel Motors,601
+BR0534,Elva Motors,602
+BR0559,Ferrari Motors,603
+BR0600,"Fisker, Karma Motors",604
+BR0605,Ford America Motors,605
+BR0617,Ford Australia Motors,606
+BR0669,FSO Motors,607
+BR0751,Healey Motors,608
+BR0757,Healey Motors,609
+BR0769,Heinkel Motors,610
+BR0783,Hillman Motors,611
+BR0794,Hindustan Motors,612
+BR0803,Holden Motors,613
+BR0804,Holden Motors,614
+BR0844,Humber Motors,615
+BR0878,"IFA (including Trabant, Wartburg, Barkas) Motors",616
+BR0906,Auto-Union Motors,617
+BR0950,Isuzu Motors,618
+BR0970,Jaguar Motors,619
+BR0973,Jeep Motors,620
+BR0975,Jeep Motors,621
+BR0979,Jeep Motors,622
+BR0980,Jeep Motors,623
+BR0988,Jensen Motors,624
+BR0990,Jensen Motors,625
+BR0995,JPX Motors,626
+BR1004,Kia Motors,627
+BR1020,Koenigsegg Motors,628
+BR1026,Bentley Motors,629
+BR1035,Lada Motors,630
+BR1053,Lancia Motors,631
+BR1068,Land Rover Motors,632
+BR1146,BMW Motors,633
+BR1163,Marlin Motors,634
+BR1168,Marlin Motors,635
+BR1183,Maserati Motors,636
+BR1184,Maserati Motors,637
+BR1195,Mastretta Motors,638
+BR12306,Volvo Motors,639
+BR1231,McLaren Motors,640
+BR1244,Mercedes-Benz (including Maybach) Motors,641
+BR1267,Merkur Motors,642
+BR1352,Moskwitch Motors,643
+BR1365,Nash Motors,644
+BR1392,Nissan India Motors,645
+BR1445,Opel Motors,646
+BR1455,Packard Motors,647
+BR1483,Panoz Motors,648
+BR1544,Piaggio Motors,649
+BR1574,"Pontiac, Asüna Motors",650
+BR1582,Porsche Motors,651
+BR1615,Puma Motors,652
+BR1633,Reliant Motors,653
+BR1665,Rolls-Royce Motors,654
+BR1672,Saab Motors,655
+BR1682,SAIC Motor Motors,656
+BR1684,SAIC Motor Motors,657
+BR1722,Santa Matilde Motors,658
+BR1743,Saturn Motors,659
+BR1784,Simca Motors,660
+BR1787,Simca Motors,661
+BR1861,Studebaker Motors,662
+BR1938,Tesla Motors,663
+BR1964,Toyota India Motors,664
+BR1991,UAZ Motors,665
+BR2053,Volvo Motors,666
+BR2070,Westfield Motors,667
+BR2101,ZIL Motors,668
+BR2171,Lagonda  Motors,669
+BR2173,Lagonda  Motors,670
+BR2190,MG  Motors,671
+BR2204,Austin  Motors,672
+BR2221,Wolseley  Motors,673
+BR2301,Atlantic Motor Company,674
+BR2323,Blankinship Motor Company Building,675
+BR2340,Bohn Motor Company Automobile Dealership,676
+BR2362,Casa de cadillac,677
+BR2437,Hupmobile Building,678
+BR3426,Fiat do Brasil Motors,679
+BR4566,Heinkel Motors,680
+BR5226,"IFA (including Trabant, Wartburg, Barkas) Motors",681
+BR6066,Koenigsegg Motors,682
+BR0006,AC Cars Motors,683
+BR0042,Alpine Motors,684
+BR0083,Ariel Motors,685
+BR0095,ARO Motors,686
+BR0125,Aston Martin Motors,687
+BR0139,Audi Motors,688
+BR0161,Auverland Motors,689
+BR0168,Auverland Motors,690
+BR0188,Bitter Motors,691
+BR0197,BMW Motors,692
+BR0222,Bristol Motors,693
+BR0225,Bristol Motors,694
+BR0230,Bristol Motors,695
+BR0254,"Austin, Rover Motors",696
+BR0265,Bugatti Motors,697
+BR0269,Bugatti Motors,698
+BR0300,Cadillac Motors,699
+BR0302,Caterham Motors,700
+BR0311,Checker Motors,701
+BR0331,Chevrolet India Motors,702
+BR0351,Chrysler Europe Motors,703
+BR0359,Chrysler Europe Motors,704
+BR0362,Citroën Motors,705
+BR0372,Cizeta-Moroder Motors,706
+BR0379,Cizeta-Moroder Motors,707
+BR0397,"Daewoo, Saehan, Chevrolet Korea Motors",708
+BR0415,Daihatsu Motors,709
+BR0424,Daimler Motors,710
+BR0432,Datsun Motors,711
+BR0481,Dodge Motors,712
+BR0553,Ferrari Motors,713
+BR0562,Fiat Motors,714
+BR0567,Fiat Motors,715
+BR0579,Fiat do Brasil Motors,716
+BR0611,Ford Australia Motors,717
+BR0614,Ford Australia Motors,718
+BR0649,Ford India Motors,719
+BR0681,Geo Motors,720
+BR0687,Geo Motors,721
+BR0703,Ginetta Motors,722
+BR0805,Holden Motors,723
+BR0823,Honda India Motors,724
+BR0824,Honda India Motors,725
+BR0832,Hudson Motors,726
+BR0834,Hudson Motors,727
+BR0927,Iso Motors,728
+BR0934,Isotta Fraschini Motors,729
+BR0945,Isuzu Motors,730
+BR0983,Jensen Motors,731
+BR1023,KTM Motors,732
+BR1037,Lada Motors,733
+BR1045,Lamborghini Motors,734
+BR1049,Lamborghini Motors,735
+BR1050,Lamborghini Motors,736
+BR1051,Lancia Motors,737
+BR1108,Lotus Motors,738
+BR1114,LTI Motors,739
+BR1141,Mahindra Motors,740
+BR11466,Tatra Motors,741
+BR11526,Tazzari Motors,742
+BR11706,Toyota Motors,743
+BR1204,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",744
+BR1232,McLaren Motors,745
+BR1258,Mercury Motors,746
+BR1307,Mini Motors,747
+BR1358,Moskwitch Motors,748
+BR1372,Naza Motors,749
+BR1377,Naza Motors,750
+BR14106,Cadillac Automobile Company Building,751
+BR1454,Packard Motors,752
+BR1460,Packard Motors,753
+BR1488,Panoz Motors,754
+BR1515,Perodua Motors,755
+BR1597,Premier Motors,756
+BR1613,Puma Motors,757
+BR1618,Puma Motors,758
+BR1642,Renault Motors,759
+BR1652,Rivian Motors,760
+BR1661,Rolls-Royce Motors,761
+BR1674,Saab Motors,762
+BR1688,SAIC Motor Motors,763
+BR1701,Samsung Motors,764
+BR1715,San Motors,765
+BR1746,Cadillac Motors,766
+BR1780,Shelby SuperCars Motors,767
+BR1782,Simca Motors,768
+BR1797,Simca do Brasil Motors,769
+BR1798,Simca do Brasil Motors,770
+BR1814,Skoda Motors,771
+BR1830,Smart Motors,772
+BR1832,Spyker Motors,773
+BR1845,SsangYong Motors,774
+BR1884,Sunbeam Motors,775
+BR1887,Sunbeam Motors,776
+BR1889,Sunbeam Motors,777
+BR1913,Tatra Motors,778
+BR1924,Tazzari Motors,779
+BR1932,Tesla Motors,780
+BR1934,Tesla Motors,781
+BR1948,Tornado Motors,782
+BR1952,Toyota Motors,783
+BR1959,Toyota Motors,784
+BR1968,Toyota India Motors,785
+BR1972,Turner Motors,786
+BR1994,UAZ Motors,787
+BR2009,Vauxhall Motors,788
+BR2021,Volkswagen Motors,789
+BR2022,Volkswagen Motors,790
+BR2030,Volkswagen Motors,791
+BR2047,Volkswagen South Africa Motors,792
+BR2105,ZIL Motors,793
+BR2106,Chrysler Europe Motors,794
+BR2182,MG  Motors,795
+BR2192,Morris  Motors,796
+BR2303,Atlantic Motor Company,797
+BR2342,Buick Automobile Company Building,798
+BR2357,Cadillac Automobile Company Building,799
+BR2370,Casa de cadillac,800
+BR2371,Cass Motor Sales,801
+BR2405,Colman Automotive Building,802
+BR2439,Hupmobile Building,803
+BR2766,DeSoto Motors,804
+BR3606,Ford America Motors,805
+BR3966,FSO Motors,806
+BR4386,GTA Spano Motors,807
+BR5886,Jensen Motors,808
+BR6846,Mahindra Motors,809
+BR7506,Mercury Motors,810
+BR7806,Mini Motors,811
+BR7986,Monteverdi Motors,812
+BR8826,Panhard Motors,813
+BR0001,AC Cars Motors,814
+BR0003,AC Cars Motors,815
+BR0018,Acura Motors,816
+BR0021,Aixam-Mega (including Arola) Motors,817
+BR0037,Alfa Romeo Motors,818
+BR0049,Alpine Motors,819
+BR0050,Alpine Motors,820
+BR0053,Alvis Motors,821
+BR0060,Alvis Motors,822
+BR0094,ARO Motors,823
+BR0119,Asia Motors Motors,824
+BR0123,Aston Martin Motors,825
+BR0153,Auto-Union Motors,826
+BR0158,Auto-Union Motors,827
+BR0235,British Leyland Motors,828
+BR0243,Austin-Healey Motors,829
+BR0298,Cadillac Motors,830
+BR0357,Chrysler Europe Motors,831
+BR0360,Chrysler Europe Motors,832
+BR0367,Citroën Motors,833
+BR0369,Citroën Motors,834
+BR0385,Dacia Motors,835
+BR0388,Dacia Motors,836
+BR0417,Daihatsu Motors,837
+BR0486,Ariel Motors,838
+BR0514,e.GO Mobile Motors,839
+BR0552,Ferrari Motors,840
+BR0555,Ferrari Motors,841
+BR0615,Ford Australia Motors,842
+BR0623,Ford do Brasil Motors,843
+BR0653,Freightliner Motors,844
+BR0658,Freightliner Motors,845
+BR0667,FSO Motors,846
+BR0668,FSO Motors,847
+BR0742,Gumpert Motors,848
+BR0744,Gumpert Motors,849
+BR0807,Holden Motors,850
+BR0822,Honda India Motors,851
+BR0854,Hummer Motors,852
+BR0897,Innocenti Motors,853
+BR0953,Iveco Motors,854
+BR0964,Jaguar Motors,855
+BR0968,Jaguar Motors,856
+BR0981,Jensen Motors,857
+BR10026,Saab Motors,858
+BR1013,Koenigsegg Motors,859
+BR1021,KTM Motors,860
+BR10326,Santa Matilde Motors,861
+BR1052,Lancia Motors,862
+BR1083,Ligier Motors,863
+BR11586,Tesla Motors,864
+BR1159,Marcos Motors,865
+BR1173,Maruti Motors,866
+BR1179,Maruti Motors,867
+BR1240,McLaren Motors,868
+BR1243,Mercedes-Benz (including Maybach) Motors,869
+BR1255,Mercury Motors,870
+BR12786,Horch Motors,871
+BR1289,Mia Motors,872
+BR1295,Micro Motors,873
+BR1318,Mitsubishi Motors,874
+BR13266,Riley  Motors,875
+BR1402,Noble Motors,876
+BR1418,NSU Motors,877
+BR14406,Colman Automotive Building,878
+BR1447,Opel Motors,879
+BR1450,Opel Motors,880
+BR1491,Panther Motors,881
+BR1530,Peugeot Motors,882
+BR1600,Premier Motors,883
+BR1621,Ranger Motors,884
+BR1626,Buick Motors,885
+BR1638,Reliant Motors,886
+BR1685,SAIC Motor Motors,887
+BR1714,San Motors,888
+BR1720,San Motors,889
+BR1750,Saturn Motors,890
+BR1757,Scion Motors,891
+BR1768,Seat Motors,892
+BR1779,Shelby SuperCars Motors,893
+BR1820,Skoda Motors,894
+BR1823,Smart Motors,895
+BR1827,Smart Motors,896
+BR1835,Spyker Motors,897
+BR1875,Subaru Motors,898
+BR1920,Tatra Motors,899
+BR1931,Tesla Motors,900
+BR1954,Toyota Motors,901
+BR1960,Toyota Motors,902
+BR1969,Toyota India Motors,903
+BR1975,Turner Motors,904
+BR1987,TVR Motors,905
+BR1998,UAZ Motors,906
+BR2008,Vauxhall Motors,907
+BR2072,Wiesmann Motors,908
+BR2085,Zastava Motors,909
+BR2151,Maybach  Motors,910
+BR2163,Izh  Motors,911
+BR2185,MG  Motors,912
+BR2222,Wolseley  Motors,913
+BR2259,Das Motors,914
+BR2273,Deccan Motors,915
+BR2288,Herald Motors,916
+BR2300,Zion Automobils,917
+BR2327,Blankinship Motor Company Building,918
+BR2339,Bohn Motor Company Automobile Dealership,919
+BR2401,Colman Automotive Building,920
+BR2414,H Street Playhouse,921
+BR2440,Hupmobile Building,922
+BR2526,Daimler Motors,923
+BR3006,Edsel Motors,924
+BR4626,Hennessey Motors,925
+BR5706,Iveco Motors,926
+BR6966,Marlin Motors,927
+BR7746,Micro Motors,928
+BR7926,Monica Motors,929
+BR8226,Naza Motors,930
+BR8706,Packard Motors,931
+BR9306,Plymouth Motors,932
+BR0010,AC Cars Motors,933
+BR0058,Alvis Motors,934
+BR0067,"AMC, Eagle Motors",935
+BR0118,Asia Motors Motors,936
+BR0140,Audi Motors,937
+BR0170,Auverland Motors,938
+BR0172,Bentley Motors,939
+BR0180,Bentley Motors,940
+BR0195,BMW Motors,941
+BR0198,BMW Motors,942
+BR0217,Borgward (including Goliath and Lloyd) Motors,943
+BR0237,British Leyland Motors,944
+BR0247,Austin-Healey Motors,945
+BR0283,Bytom Motors,946
+BR0381,Dacia Motors,947
+BR0384,Dacia Motors,948
+BR0419,Daihatsu Motors,949
+BR0447,Delahaye Motors,950
+BR0470,DeSoto Motors,951
+BR0479,De Tomaso Motors,952
+BR0568,Fiat Motors,953
+BR0621,Ford do Brasil Motors,954
+BR0629,Ford do Brasil Motors,955
+BR0663,FSO Motors,956
+BR0665,FSO Motors,957
+BR0666,Asia Motors Motors,958
+BR0698,Gilbern Motors,959
+BR0709,Ginetta Motors,960
+BR0711,Glas Motors,961
+BR0741,Gumpert Motors,962
+BR0747,Gumpert Motors,963
+BR0773,Hennessey Motors,964
+BR0774,Hennessey Motors,965
+BR0867,Hyundai Motors,966
+BR0877,"IFA (including Trabant, Wartburg, Barkas) Motors",967
+BR0891,Innocenti Motors,968
+BR0892,Innocenti Motors,969
+BR0922,Iso Motors,970
+BR0943,Isuzu Motors,971
+BR1039,Lada Motors,972
+BR1041,Lamborghini Motors,973
+BR1047,Lamborghini Motors,974
+BR10626,Shelby SuperCars Motors,975
+BR1145,Mahindra Motors,976
+BR1149,Mahindra Motors,977
+BR1177,Maruti Motors,978
+BR1193,Mastretta Motors,979
+BR1198,Mastretta Motors,980
+BR1199,Mastretta Motors,981
+BR12006,Vauxhall Motors,982
+BR1215,Mazda Motors,983
+BR1227,Mazzanti Motors,984
+BR1229,Mazzanti Motors,985
+BR1274,Messerschmitt Motors,986
+BR1317,Mitsubishi Motors,987
+BR1321,Monica Motors,988
+BR1322,Monica Motors,989
+BR1349,Morgan Motors,990
+BR1382,Nissan Motors,991
+BR1386,British Leyland Motors,992
+BR14046,Buick Automobile Company Building,993
+BR1428,Oldsmobile Motors,994
+BR1440,Oltcit Motors,995
+BR14646,Jennings Ford Automobile Dealership,996
+BR1485,Panoz Motors,997
+BR1527,Peugeot Motors,998
+BR1552,Plymouth Motors,999
+BR1589,Porsche Motors,1000
+BR1634,Reliant Motors,1001
+BR1671,Saab Motors,1002
+BR1693,Saleen Motors,1003
+BR1737,Santana Motors,1004
+BR1749,Saturn Motors,1005
+BR1755,Scion Motors,1006
+BR1793,Simca do Brasil Motors,1007
+BR1872,Subaru Motors,1008
+BR1897,Suzuki Motors,1009
+BR1930,Tazzari Motors,1010
+BR1949,Tornado Motors,1011
+BR1978,Turner Motors,1012
+BR2000,UAZ Motors,1013
+BR2005,Vauxhall Motors,1014
+BR2024,Volkswagen Motors,1015
+BR2067,Westfield Motors,1016
+BR2158,Maybach  Motors,1017
+BR2166,Citroën Motors,1018
+BR2175,Lagonda  Motors,1019
+BR2188,MG  Motors,1020
+BR2197,Morris  Motors,1021
+BR2198,Morris  Motors,1022
+BR2252,Das Motors,1023
+BR2253,Das Motors,1024
+BR2289,Herald Motors,1025
+BR2315,2008 NRHP-listed,1026
+BR2332,Bohn Motor Company Automobile Dealership,1027
+BR2348,Buick Automobile Company Building,1028
+BR2351,Cadillac Automobile Company Building,1029
+BR2388,Claremore Auto Dealership,1030
+BR2394,Clemens Automobile Company Building,1031
+BR2417,H Street Playhouse,1032
+BR2433,Hupmobile Building,1033
+BR4806,Holden Motors,1034
+BR6366,Land Rover Motors,1035
+BR6786,Lynx Motors,1036
+BR7266,Mazda Motors,1037
+BR0017,Acura Motors,1038
+BR0047,Alpine Motors,1039
+BR0057,Alvis Motors,1040
+BR0064,"AMC, Eagle Motors",1041
+BR0084,Ariel Motors,1042
+BR0128,Aston Martin Motors,1043
+BR0151,Auto-Union Motors,1044
+BR0185,Bitter Motors,1045
+BR0212,Borgward (including Goliath and Lloyd) Motors,1046
+BR0218,Borgward (including Goliath and Lloyd) Motors,1047
+BR0224,Bristol Motors,1048
+BR0234,British Leyland Motors,1049
+BR0253,"Austin, Rover Motors",1050
+BR0337,Chevrolet India Motors,1051
+BR0352,Chrysler Europe Motors,1052
+BR0387,Dacia Motors,1053
+BR0409,DAF Motors,1054
+BR0411,Daihatsu Motors,1055
+BR0427,Daimler Motors,1056
+BR0455,DeLorean Motors,1057
+BR0573,Fiat do Brasil Motors,1058
+BR0581,Fiat India Motors,1059
+BR0599,"Fisker, Karma Motors",1060
+BR0601,Ford America Motors,1061
+BR0602,Ford America Motors,1062
+BR0651,Freightliner Motors,1063
+BR0673,GAZ Motors,1064
+BR0685,Geo Motors,1065
+BR0692,Gilbern Motors,1066
+BR0728,GMC Motors,1067
+BR0753,Healey Motors,1068
+BR0755,Healey Motors,1069
+BR0790,Hillman Motors,1070
+BR0833,Hudson Motors,1071
+BR0861,Hyundai Motors,1072
+BR0863,Hyundai Motors,1073
+BR0924,Iso Motors,1074
+BR0925,Iso Motors,1075
+BR0929,Iso Motors,1076
+BR0933,Isotta Fraschini Motors,1077
+BR0966,Auverland Motors,1078
+BR0978,Jeep Motors,1079
+BR1019,Koenigsegg Motors,1080
+BR1029,KTM Motors,1081
+BR1059,Lancia Motors,1082
+BR1077,Lexus Motors,1083
+BR10806,Singer Motors,1084
+BR10986,Spyker Motors,1085
+BR1101,Lotus Motors,1086
+BR1103,Lotus Motors,1087
+BR1125,LuAZ Motors,1088
+BR1140,Lynx Motors,1089
+BR1157,Marcos Motors,1090
+BR1162,Marlin Motors,1091
+BR1164,Marlin Motors,1092
+BR1165,Marlin Motors,1093
+BR1182,Maserati Motors,1094
+BR1230,Mazzanti Motors,1095
+BR1233,McLaren Motors,1096
+BR1300,Micro Motors,1097
+BR1303,Mini Motors,1098
+BR1330,Monica Motors,1099
+BR1351,Moskwitch Motors,1100
+BR13686,Herald Motors,1101
+BR1373,Naza Motors,1102
+BR1399,Nissan India Motors,1103
+BR1401,Noble Motors,1104
+BR1411,NSU Motors,1105
+BR1412,NSU Motors,1106
+BR1414,NSU Motors,1107
+BR1417,NSU Motors,1108
+BR1421,Oldsmobile Motors,1109
+BR1435,Oltcit Motors,1110
+BR1502,Peel Motors,1111
+BR1511,Perodua Motors,1112
+BR1513,Perodua Motors,1113
+BR1519,Perodua Motors,1114
+BR1524,Peugeot Motors,1115
+BR1555,Plymouth Motors,1116
+BR1578,"Pontiac, Asüna Motors",1117
+BR1604,Proton Motors,1118
+BR1640,Reliant Motors,1119
+BR1647,Renault Motors,1120
+BR1677,Saab Motors,1121
+BR1751,Scion Motors,1122
+BR1764,Seat Motors,1123
+BR1788,Simca Motors,1124
+BR1840,Spyker Motors,1125
+BR1852,Standard-Triumph Motors,1126
+BR1862,Studebaker Motors,1127
+BR1919,Tatra Motors,1128
+BR1929,Tazzari Motors,1129
+BR1943,Tornado Motors,1130
+BR1967,Toyota India Motors,1131
+BR1980,Turner Motors,1132
+BR2029,Volkswagen Motors,1133
+BR2054,Volvo Motors,1134
+BR2060,Volvo Motors,1135
+BR2083,Zastava Motors,1136
+BR2110,ZIL Motors,1137
+BR2137,Horch Motors,1138
+BR2144,Wanderer Motors,1139
+BR2152,Maybach  Motors,1140
+BR2160,Maybach  Motors,1141
+BR2164,Izh  Motors,1142
+BR2200,Morris  Motors,1143
+BR2210,Austin  Motors,1144
+BR2233,Standard  Motors,1145
+BR2251,Das Motors,1146
+BR2293,Zion Automobils,1147
+BR2295,Zion Automobils,1148
+BR2307,Atlantic Motor Company,1149
+BR2317,2008 NRHP-listed,1150
+BR2337,Bohn Motor Company Automobile Dealership,1151
+BR2415,H Street Playhouse,1152
+BR2429,Howard Motor Company Building,1153
+BR2444,Jennings Ford Automobile Dealership,1154
+BR2457,Jones Motor Company,1155
+BR3546,"Fisker, Karma Motors",1156
+BR4086,Geo Motors,1157
+BR5346,Innocenti Motors,1158
+BR5406,Invicta Motors,1159
+BR6246,Lamborghini Motors,1160
+BR6306,Lancia Motors,1161
+BR6426,Lexus Motors,1162
+BR8286,Nissan Motors,1163
+BR0048,Alpine Motors,1164
+BR0066,Acura Motors,1165
+BR0075,Anadol Motors,1166
+BR0102,Artega Motors,1167
+BR0108,Artega Motors,1168
+BR0154,Auto-Union Motors,1169
+BR0163,Auverland Motors,1170
+BR0194,BMW Motors,1171
+BR0231,British Leyland Motors,1172
+BR0293,Cadillac Motors,1173
+BR0301,Caterham Motors,1174
+BR0380,Cizeta-Moroder Motors,1175
+BR0414,Daihatsu Motors,1176
+BR0444,Delahaye Motors,1177
+BR0463,DeSoto Motors,1178
+BR0491,Donkervoort Motors,1179
+BR0492,Donkervoort Motors,1180
+BR0546,ARO Motors,1181
+BR0585,Fiat India Motors,1182
+BR0598,"Fisker, Karma Motors",1183
+BR0606,Artega Motors,1184
+BR0647,Ford India Motors,1185
+BR0678,GAZ Motors,1186
+BR0691,Gilbern Motors,1187
+BR0695,Gilbern Motors,1188
+BR0720,Glas Motors,1189
+BR0735,GTA Spano Motors,1190
+BR0739,GTA Spano Motors,1191
+BR0781,Hillman Motors,1192
+BR0797,Hindustan Motors,1193
+BR0812,Honda Motors,1194
+BR0828,Honda India Motors,1195
+BR0851,Hummer Motors,1196
+BR0858,Hummer Motors,1197
+BR0872,"IFA (including Trabant, Wartburg, Barkas) Motors",1198
+BR0873,"IFA (including Trabant, Wartburg, Barkas) Motors",1199
+BR0910,Invicta Motors,1200
+BR0917,Isdera Motors,1201
+BR0931,Isotta Fraschini Motors,1202
+BR0987,Jensen Motors,1203
+BR1005,Kia Motors,1204
+BR10206,Samsung Motors,1205
+BR1028,KTM Motors,1206
+BR1032,Lada Motors,1207
+BR1058,Lancia Motors,1208
+BR1063,Land Rover Motors,1209
+BR1070,Land Rover Motors,1210
+BR1129,LuAZ Motors,1211
+BR1147,Mahindra Motors,1212
+BR1189,Maserati Motors,1213
+BR12126,Volkswagen Motors,1214
+BR1247,Mercedes-Benz (including Maybach) Motors,1215
+BR1259,Mercury Motors,1216
+BR1261,Merkur Motors,1217
+BR1338,Monteverdi Motors,1218
+BR13506,Das Motors,1219
+BR1353,Moskwitch Motors,1220
+BR1360,Moskwitch Motors,1221
+BR1369,Nash Motors,1222
+BR1380,Naza Motors,1223
+BR1410,Noble Motors,1224
+BR1495,Panther Motors,1225
+BR1499,Panther Motors,1226
+BR1553,Plymouth Motors,1227
+BR1561,Polestar Motors,1228
+BR1575,"Pontiac, Asüna Motors",1229
+BR1628,Ranger Motors,1230
+BR1657,Rivian Motors,1231
+BR1711,San Motors,1232
+BR1747,Saturn Motors,1233
+BR1763,Seat Motors,1234
+BR1789,Simca Motors,1235
+BR1812,Skoda Motors,1236
+BR1821,Smart Motors,1237
+BR1828,Smart Motors,1238
+BR1831,Spyker Motors,1239
+BR1854,Standard-Triumph Motors,1240
+BR1858,Standard-Triumph Motors,1241
+BR1882,Sunbeam Motors,1242
+BR1957,Toyota Motors,1243
+BR1963,Toyota India Motors,1244
+BR1985,TVR Motors,1245
+BR1988,TVR Motors,1246
+BR1989,TVR Motors,1247
+BR2004,Vauxhall Motors,1248
+BR2023,Volkswagen Motors,1249
+BR2041,Volkswagen South Africa Motors,1250
+BR2062,Westfield Motors,1251
+BR2071,Wiesmann Motors,1252
+BR2097,ZAZ Motors,1253
+BR2108,ZIL Motors,1254
+BR2114,Audi Motors,1255
+BR2124,DKW Motors,1256
+BR2139,Horch Motors,1257
+BR2168,Izh  Motors,1258
+BR2232,Standard  Motors,1259
+BR2247,Talbot  Motors,1260
+BR2270,Ramani Motors,1261
+BR2287,Herald Motors,1262
+BR2313,2008 NRHP-listed,1263
+BR2330,Blankinship Motor Company Building,1264
+BR2341,Buick Automobile Company Building,1265
+BR2358,Cadillac Automobile Company Building,1266
+BR2378,Cass Motor Sales,1267
+BR2383,Claremore Auto Dealership,1268
+BR2391,Clemens Automobile Company Building,1269
+BR2419,H Street Playhouse,1270
+BR2460,Jones Motor Company,1271
+BR3066,e.GO Mobile Motors,1272
+BR3726,Ford do Brasil Motors,1273
+BR4746,Hindustan Motors,1274
+BR9126,Peugeot Motors,1275
+BR0031,Alfa Romeo Motors,1276
+BR0061,"AMC, Eagle Motors",1277
+BR0068,"AMC, Eagle Motors",1278
+BR0074,Anadol Motors,1279
+BR0103,Artega Motors,1280
+BR0104,Artega Motors,1281
+BR0117,Asia Motors Motors,1282
+BR0121,Aston Martin Motors,1283
+BR0171,Bentley Motors,1284
+BR0181,Bitter Motors,1285
+BR0183,Bitter Motors,1286
+BR0220,Borgward (including Goliath and Lloyd) Motors,1287
+BR0249,Austin-Healey Motors,1288
+BR0280,Buick Motors,1289
+BR0291,Cadillac Motors,1290
+BR0317,Checker Motors,1291
+BR0323,Chevrolet Motors,1292
+BR0334,Chevrolet India Motors,1293
+BR0338,Chevrolet India Motors,1294
+BR0342,Chrysler Motors,1295
+BR0354,Chrysler Europe Motors,1296
+BR0399,"Daewoo, Saehan, Chevrolet Korea Motors",1297
+BR0438,Datsun Motors,1298
+BR0452,DeLorean Motors,1299
+BR0464,DeSoto Motors,1300
+BR0485,Dodge Motors,1301
+BR0533,Elva Motors,1302
+BR0590,Fiat India Motors,1303
+BR0608,Ford America Motors,1304
+BR0619,Ford Australia Motors,1305
+BR0624,Ford do Brasil Motors,1306
+BR0688,Geo Motors,1307
+BR0701,Ginetta Motors,1308
+BR0730,GMC Motors,1309
+BR0731,GTA Spano Motors,1310
+BR0759,Healey Motors,1311
+BR0838,Hudson Motors,1312
+BR0845,Humber Motors,1313
+BR0846,Autobianchi Motors,1314
+BR0879,"IFA (including Trabant, Wartburg, Barkas) Motors",1315
+BR0883,Infiniti Motors,1316
+BR0884,Infiniti Motors,1317
+BR0899,Innocenti Motors,1318
+BR0935,Isotta Fraschini Motors,1319
+BR10086,SAIC Motor Motors,1320
+BR10146,Saleen Motors,1321
+BR10506,Scion Motors,1322
+BR10746,Simca do Brasil Motors,1323
+BR1094,Lincoln Motors,1324
+BR1148,Mahindra Motors,1325
+BR1181,Maserati Motors,1326
+BR1241,Mercedes-Benz (including Maybach) Motors,1327
+BR1273,Messerschmitt Motors,1328
+BR1290,Mia Motors,1329
+BR1294,Micro Motors,1330
+BR1326,Bristol Motors,1331
+BR1343,Morgan Motors,1332
+BR1379,Naza Motors,1333
+BR1383,Nissan Motors,1334
+BR13926,Blankinship Motor Company Building,1335
+BR1393,Nissan India Motors,1336
+BR1424,Oldsmobile Motors,1337
+BR1438,Oltcit Motors,1338
+BR1461,Pagani Motors,1339
+BR1475,Panhard Motors,1340
+BR14766,Kindel Building,1341
+BR1565,Polestar Motors,1342
+BR1651,Rivian Motors,1343
+BR1664,Rolls-Royce Motors,1344
+BR1670,Rolls-Royce Motors,1345
+BR1708,Samsung Motors,1346
+BR1712,San Motors,1347
+BR1728,Santa Matilde Motors,1348
+BR1769,Seat Motors,1349
+BR1803,Singer Motors,1350
+BR1864,Studebaker Motors,1351
+BR1888,Sunbeam Motors,1352
+BR1908,Tata Motors,1353
+BR1947,Tornado Motors,1354
+BR1984,TVR Motors,1355
+BR2032,Volkswagen do Brasil Motors,1356
+BR2039,Volkswagen do Brasil Motors,1357
+BR2048,Volkswagen South Africa Motors,1358
+BR2057,Volvo Motors,1359
+BR2059,Volvo Motors,1360
+BR2132,Horch Motors,1361
+BR2142,Wanderer Motors,1362
+BR2184,MG  Motors,1363
+BR2207,Austin  Motors,1364
+BR2213,Riley  Motors,1365
+BR2220,Riley  Motors,1366
+BR2234,Standard  Motors,1367
+BR2241,Talbot  Motors,1368
+BR2262,Ramani Motors,1369
+BR2282,Herald Motors,1370
+BR2331,Bohn Motor Company Automobile Dealership,1371
+BR2347,Buick Automobile Company Building,1372
+BR2350,Buick Automobile Company Building,1373
+BR2360,Cadillac Automobile Company Building,1374
+BR2409,Colman Automotive Building,1375
+BR2438,Hupmobile Building,1376
+BR2449,Jennings Ford Automobile Dealership,1377
+BR2886,Dodge Motors,1378
+BR3246,Facel Vega Motors,1379
+BR5046,Humber Motors,1380
+BR6546,Lincoln Motors,1381
+BR8466,NSU Motors,1382
+BR8766,Pagani Motors,1383
+BR8946,Panther Motors,1384
+BR0024,Aixam-Mega (including Arola) Motors,1385
+BR0045,Alpine Motors,1386
+BR0065,"AMC, Eagle Motors",1387
+BR0111,Asia Motors Motors,1388
+BR0114,Asia Motors Motors,1389
+BR0160,Auto-Union Motors,1390
+BR0205,Bond Motors,1391
+BR0208,Bond Motors,1392
+BR0260,"Austin, Rover Motors",1393
+BR0264,Bugatti Motors,1394
+BR0267,Bugatti Motors,1395
+BR0270,Bugatti Motors,1396
+BR0275,Buick Motors,1397
+BR0278,Buick Motors,1398
+BR0303,Caterham Motors,1399
+BR0313,Checker Motors,1400
+BR0321,Chevrolet Motors,1401
+BR0324,Chevrolet Motors,1402
+BR0333,Chevrolet India Motors,1403
+BR0347,Chrysler Motors,1404
+BR0353,Chrysler Europe Motors,1405
+BR0378,Cizeta-Moroder Motors,1406
+BR0383,Dacia Motors,1407
+BR0393,"Daewoo, Saehan, Chevrolet Korea Motors",1408
+BR0402,DAF Motors,1409
+BR0410,DAF Motors,1410
+BR0433,Datsun Motors,1411
+BR0460,DeLorean Motors,1412
+BR0469,DeSoto Motors,1413
+BR0498,Donkervoort Motors,1414
+BR0517,e.GO Mobile Motors,1415
+BR0520,e.GO Mobile Motors,1416
+BR0525,Eicher Polaris Motors,1417
+BR0538,Elva Motors,1418
+BR0542,Facel Vega Motors,1419
+BR0551,Ferrari Motors,1420
+BR0635,Ford Europe Motors,1421
+BR0643,Ford India Motors,1422
+BR0764,Heinkel Motors,1423
+BR0770,Heinkel Motors,1424
+BR0793,Hindustan Motors,1425
+BR0815,Honda Motors,1426
+BR0881,Infiniti Motors,1427
+BR0908,Invicta Motors,1428
+BR0911,Isdera Motors,1429
+BR0963,Jaguar Motors,1430
+BR0993,JPX Motors,1431
+BR10686,Simca Motors,1432
+BR1075,Lexus Motors,1433
+BR1086,Bitter Motors,1434
+BR1127,LuAZ Motors,1435
+BR1128,LuAZ Motors,1436
+BR11646,Tornado Motors,1437
+BR1203,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",1438
+BR1218,Mazda Motors,1439
+BR1223,Mazzanti Motors,1440
+BR12606,ZIL Motors,1441
+BR12666,Audi Motors,1442
+BR1291,Micro Motors,1443
+BR1325,Monica Motors,1444
+BR1363,Nash Motors,1445
+BR1364,Nash Motors,1446
+BR13746,Zion Automobils,1447
+BR1398,Nissan India Motors,1448
+BR1459,Packard Motors,1449
+BR1467,Pagani Motors,1450
+BR1471,Panhard Motors,1451
+BR1479,Panhard Motors,1452
+BR1480,Panhard Motors,1453
+BR1482,Panoz Motors,1454
+BR1489,Panoz Motors,1455
+BR1529,Peugeot Motors,1456
+BR1564,Polestar Motors,1457
+BR1577,"Pontiac, Asüna Motors",1458
+BR1588,Porsche Motors,1459
+BR1592,Premier Motors,1460
+BR1601,Proton Motors,1461
+BR1603,Proton Motors,1462
+BR1605,Proton Motors,1463
+BR1612,Puma Motors,1464
+BR1632,Reliant Motors,1465
+BR1660,Rivian Motors,1466
+BR1681,SAIC Motor Motors,1467
+BR1735,Santana Motors,1468
+BR1800,Simca do Brasil Motors,1469
+BR1822,Smart Motors,1470
+BR1837,Spyker Motors,1471
+BR1839,Spyker Motors,1472
+BR1873,Subaru Motors,1473
+BR1874,Subaru Motors,1474
+BR1879,Subaru Motors,1475
+BR1927,Tazzari Motors,1476
+BR1977,Turner Motors,1477
+BR2042,Volkswagen South Africa Motors,1478
+BR2118,Audi Motors,1479
+BR2125,DKW Motors,1480
+BR2143,Wanderer Motors,1481
+BR2154,Maybach  Motors,1482
+BR2159,Maybach  Motors,1483
+BR2161,Izh  Motors,1484
+BR2183,MG  Motors,1485
+BR2201,Austin  Motors,1486
+BR2244,Talbot  Motors,1487
+BR2281,Herald Motors,1488
+BR2368,Casa de cadillac,1489
+BR2374,Cass Motor Sales,1490
+BR2423,Howard Motor Company Building,1491
+BR0009,AC Cars Motors,1492
+BR0011,Acura Motors,1493
+BR0014,Acura Motors,1494
+BR0025,Aixam-Mega (including Arola) Motors,1495
+BR0033,Alfa Romeo Motors,1496
+BR0090,Ariel Motors,1497
+BR0115,Asia Motors Motors,1498
+BR0192,BMW Motors,1499
+BR0202,Bond Motors,1500
+BR0221,Bristol Motors,1501
+BR0223,Bristol Motors,1502
+BR0229,Bristol Motors,1503
+BR0277,Buick Motors,1504
+BR0315,Checker Motors,1505
+BR0339,Chevrolet India Motors,1506
+BR0349,Chrysler Motors,1507
+BR0375,Cizeta-Moroder Motors,1508
+BR0391,"Daewoo, Saehan, Chevrolet Korea Motors",1509
+BR0408,DAF Motors,1510
+BR0422,Daimler Motors,1511
+BR0454,DeLorean Motors,1512
+BR0473,De Tomaso Motors,1513
+BR0487,Dodge Motors,1514
+BR0502,Edsel Motors,1515
+BR0504,Edsel Motors,1516
+BR0513,e.GO Mobile Motors,1517
+BR0544,Facel Vega Motors,1518
+BR0572,Fiat do Brasil Motors,1519
+BR0575,Fiat do Brasil Motors,1520
+BR0625,Ford do Brasil Motors,1521
+BR0637,Ford Europe Motors,1522
+BR0641,Ford India Motors,1523
+BR0700,Gilbern Motors,1524
+BR0707,Ginetta Motors,1525
+BR0712,Glas Motors,1526
+BR0715,Glas Motors,1527
+BR0722,GMC Motors,1528
+BR0752,Healey Motors,1529
+BR0775,Hennessey Motors,1530
+BR0785,Hillman Motors,1531
+BR0818,Honda Motors,1532
+BR0827,Honda India Motors,1533
+BR0849,Humber Motors,1534
+BR0918,Isdera Motors,1535
+BR0958,Iveco Motors,1536
+BR0965,Jaguar Motors,1537
+BR0974,Jeep Motors,1538
+BR0998,JPX Motors,1539
+BR1073,Lexus Motors,1540
+BR1078,Lexus Motors,1541
+BR1092,Lincoln Motors,1542
+BR1102,Lotus Motors,1543
+BR1111,LTI Motors,1544
+BR1135,Lynx Motors,1545
+BR1137,Lynx Motors,1546
+BR1175,Maruti Motors,1547
+BR1210,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",1548
+BR1251,Mercury Motors,1549
+BR1262,Merkur Motors,1550
+BR1264,Merkur Motors,1551
+BR1279,Messerschmitt Motors,1552
+BR1287,Mia Motors,1553
+BR13026,Lagonda  Motors,1554
+BR1313,Mitsubishi Motors,1555
+BR1315,Mitsubishi Motors,1556
+BR13566,Ramani Motors,1557
+BR1442,Opel Motors,1558
+BR1448,Opel Motors,1559
+BR1457,Packard Motors,1560
+BR1518,Perodua Motors,1561
+BR1542,Piaggio Motors,1562
+BR1559,Plymouth Motors,1563
+BR1560,Plymouth Motors,1564
+BR1573,"Pontiac, Asüna Motors",1565
+BR1585,Porsche Motors,1566
+BR1594,Premier Motors,1567
+BR1610,Proton Motors,1568
+BR1631,Reliant Motors,1569
+BR1639,Reliant Motors,1570
+BR1641,Renault Motors,1571
+BR1654,Rivian Motors,1572
+BR1702,Samsung Motors,1573
+BR1717,San Motors,1574
+BR1731,Santana Motors,1575
+BR1741,Saturn Motors,1576
+BR1759,Scion Motors,1577
+BR1785,Simca Motors,1578
+BR1829,Smart Motors,1579
+BR1844,SsangYong Motors,1580
+BR1923,Tazzari Motors,1581
+BR1944,Tornado Motors,1582
+BR1958,Toyota Motors,1583
+BR1990,TVR Motors,1584
+BR2046,Chrysler Motors,1585
+BR2115,Audi Motors,1586
+BR2123,DKW Motors,1587
+BR2138,Horch Motors,1588
+BR2165,Izh  Motors,1589
+BR2169,Izh  Motors,1590
+BR2225,Wolseley  Motors,1591
+BR2272,Deccan Motors,1592
+BR2277,Deccan Motors,1593
+BR2290,Herald Motors,1594
+BR2302,Atlantic Motor Company,1595
+BR2308,Atlantic Motor Company,1596
+BR2310,Atlantic Motor Company,1597
+BR2318,2008 NRHP-listed,1598
+BR2369,Casa de cadillac,1599
+BR2375,Cass Motor Sales,1600
+BR2384,Claremore Auto Dealership,1601
+BR2395,Clemens Automobile Company Building,1602
+BR2443,Jennings Ford Automobile Dealership,1603
+BR2450,Jennings Ford Automobile Dealership,1604
+BR2452,Jones Motor Company,1605
+BR2454,Jones Motor Company,1606
+BR2463,Kindel Building,1607
+BR4026,GAZ Motors,1608
+BR4266,Glas Motors,1609
+BR6486,Ligier Motors,1610
+BR7146,Mastretta Motors,1611
+BR9246,Piaggio Motors,1612
+BR0101,Artega Motors,1613
+BR0112,Asia Motors Motors,1614
+BR0126,Aixam-Mega (including Arola) Motors,1615
+BR0159,Auto-Union Motors,1616
+BR0186,Alfa Romeo Motors,1617
+BR0204,Bond Motors,1618
+BR0214,Borgward (including Goliath and Lloyd) Motors,1619
+BR0297,Cadillac Motors,1620
+BR0305,Caterham Motors,1621
+BR0318,Checker Motors,1622
+BR0368,Citroën Motors,1623
+BR0468,DeSoto Motors,1624
+BR0477,De Tomaso Motors,1625
+BR0482,Dodge Motors,1626
+BR0512,e.GO Mobile Motors,1627
+BR0584,Fiat India Motors,1628
+BR0588,Fiat India Motors,1629
+BR0613,Ford Australia Motors,1630
+BR0675,GAZ Motors,1631
+BR0717,Glas Motors,1632
+BR0732,GTA Spano Motors,1633
+BR0738,GTA Spano Motors,1634
+BR0767,Heinkel Motors,1635
+BR0768,Heinkel Motors,1636
+BR0798,Hindustan Motors,1637
+BR0841,Humber Motors,1638
+BR0860,Hummer Motors,1639
+BR0870,Hyundai Motors,1640
+BR0880,"IFA (including Trabant, Wartburg, Barkas) Motors",1641
+BR0904,Invicta Motors,1642
+BR0907,Invicta Motors,1643
+BR0939,Isotta Fraschini Motors,1644
+BR0947,Isuzu Motors,1645
+BR0971,Jeep Motors,1646
+BR0999,JPX Motors,1647
+BR1003,Kia Motors,1648
+BR1008,Kia Motors,1649
+BR1015,Koenigsegg Motors,1650
+BR10446,Saturn Motors,1651
+BR1071,Lexus Motors,1652
+BR1104,Lotus Motors,1653
+BR1112,LTI Motors,1654
+BR11406,Tata Motors,1655
+BR1174,Maruti Motors,1656
+BR1192,Mastretta Motors,1657
+BR1200,Mastretta Motors,1658
+BR1205,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",1659
+BR12186,Volkswagen do Brasil Motors,1660
+BR1224,Mazzanti Motors,1661
+BR12366,Westfield Motors,1662
+BR1248,Mercedes-Benz (including Maybach) Motors,1663
+BR12486,Zastava Motors,1664
+BR1277,Messerschmitt Motors,1665
+BR1302,Mini Motors,1666
+BR13326,Wolseley  Motors,1667
+BR1339,Monteverdi Motors,1668
+BR1362,Nash Motors,1669
+BR14166,Casa de cadillac,1670
+BR1419,NSU Motors,1671
+BR14226,Cass Motor Sales,1672
+BR14526,Howard Motor Company Building,1673
+BR1463,Pagani Motors,1674
+BR1473,Panhard Motors,1675
+BR1510,Peel Motors,1676
+BR1521,Peugeot Motors,1677
+BR1540,PGO Motors,1678
+BR1571,"Pontiac, Asüna Motors",1679
+BR1608,Proton Motors,1680
+BR1619,Puma Motors,1681
+BR1653,Rivian Motors,1682
+BR1679,Saab Motors,1683
+BR1691,Saleen Motors,1684
+BR1697,Saleen Motors,1685
+BR1699,Saleen Motors,1686
+BR1727,Santa Matilde Motors,1687
+BR1739,Santana Motors,1688
+BR1758,Scion Motors,1689
+BR1809,Singer Motors,1690
+BR1892,Suzuki Motors,1691
+BR1917,Tatra Motors,1692
+BR1922,Tazzari Motors,1693
+BR1974,Turner Motors,1694
+BR2007,Vauxhall Motors,1695
+BR2018,Venturi Motors,1696
+BR2035,Volkswagen do Brasil Motors,1697
+BR2052,Volvo Motors,1698
+BR2058,Volvo Motors,1699
+BR2065,Westfield Motors,1700
+BR2129,DKW Motors,1701
+BR2135,Horch Motors,1702
+BR2140,Horch Motors,1703
+BR2157,Maybach  Motors,1704
+BR2167,Izh  Motors,1705
+BR2172,Lagonda  Motors,1706
+BR2177,Lagonda  Motors,1707
+BR2179,Lagonda  Motors,1708
+BR2180,Lagonda  Motors,1709
+BR2214,Riley  Motors,1710
+BR2226,Cizeta-Moroder Motors,1711
+BR2237,Standard  Motors,1712
+BR2271,Deccan Motors,1713
+BR2297,Zion Automobils,1714
+BR2389,Claremore Auto Dealership,1715
+BR2402,Colman Automotive Building,1716
+BR2441,Jennings Ford Automobile Dealership,1717
+BR2462,Kindel Building,1718
+BR2946,Donkervoort Motors,1719
+BR3666,Ford Australia Motors,1720
+BR4686,Hillman Motors,1721
+BR7386,McLaren Motors,1722
+BR8046,Morgan Motors,1723
+BR0052,Alvis Motors,1724
+BR0054,Alvis Motors,1725
+BR0070,"AMC, Eagle Motors",1726
+BR0127,Aston Martin Motors,1727
+BR0143,Autobianchi Motors,1728
+BR0227,Bristol Motors,1729
+BR0239,British Leyland Motors,1730
+BR0251,"Austin, Rover Motors",1731
+BR0262,Bugatti Motors,1732
+BR0268,Bugatti Motors,1733
+BR0304,Caterham Motors,1734
+BR0306,Alvis Motors,1735
+BR0322,Chevrolet Motors,1736
+BR0407,DAF Motors,1737
+BR0420,Daihatsu Motors,1738
+BR0515,e.GO Mobile Motors,1739
+BR0521,Eicher Polaris Motors,1740
+BR0620,Ford Australia Motors,1741
+BR0634,Ford Europe Motors,1742
+BR0640,Ford Europe Motors,1743
+BR0655,Freightliner Motors,1744
+BR0661,FSO Motors,1745
+BR0719,Glas Motors,1746
+BR0723,GMC Motors,1747
+BR0724,GMC Motors,1748
+BR0771,Hennessey Motors,1749
+BR0810,Holden Motors,1750
+BR0811,Honda Motors,1751
+BR0840,Hudson Motors,1752
+BR0857,Hummer Motors,1753
+BR0859,Hummer Motors,1754
+BR0889,Infiniti Motors,1755
+BR0923,Iso Motors,1756
+BR0960,Iveco Motors,1757
+BR0989,Jensen Motors,1758
+BR0994,JPX Motors,1759
+BR1012,Koenigsegg Motors,1760
+BR1014,Koenigsegg Motors,1761
+BR1079,Lexus Motors,1762
+BR1105,Lotus Motors,1763
+BR1121,LuAZ Motors,1764
+BR1155,Marcos Motors,1765
+BR1167,Marlin Motors,1766
+BR1194,Mastretta Motors,1767
+BR1212,Mazda Motors,1768
+BR1217,Mazda Motors,1769
+BR1245,Mercedes-Benz (including Maybach) Motors,1770
+BR1268,Merkur Motors,1771
+BR1283,Mia Motors,1772
+BR12966,Izh  Motors,1773
+BR1299,Micro Motors,1774
+BR1310,Mini Motors,1775
+BR1314,Mitsubishi Motors,1776
+BR1328,Monica Motors,1777
+BR13806,Atlantic Motor Company,1778
+BR1391,Nissan India Motors,1779
+BR1405,Noble Motors,1780
+BR1444,Opel Motors,1781
+BR1498,Panther Motors,1782
+BR1520,Perodua Motors,1783
+BR1545,Piaggio Motors,1784
+BR1563,Polestar Motors,1785
+BR1583,Porsche Motors,1786
+BR1620,Puma Motors,1787
+BR1625,Ranger Motors,1788
+BR1683,SAIC Motor Motors,1789
+BR1692,Saleen Motors,1790
+BR1709,Samsung Motors,1791
+BR1721,Santa Matilde Motors,1792
+BR1723,Santa Matilde Motors,1793
+BR1729,Santa Matilde Motors,1794
+BR1742,Saturn Motors,1795
+BR1753,Scion Motors,1796
+BR1761,Seat Motors,1797
+BR1762,Seat Motors,1798
+BR1783,Simca Motors,1799
+BR1834,Spyker Motors,1800
+BR1914,Tatra Motors,1801
+BR1925,Tazzari Motors,1802
+BR1928,Tazzari Motors,1803
+BR1933,Tesla Motors,1804
+BR1945,Tornado Motors,1805
+BR1965,Toyota India Motors,1806
+BR1971,Turner Motors,1807
+BR2017,Venturi Motors,1808
+BR2033,Volkswagen do Brasil Motors,1809
+BR2037,Volkswagen do Brasil Motors,1810
+BR2045,Volkswagen South Africa Motors,1811
+BR2079,Wiesmann Motors,1812
+BR2090,Zastava Motors,1813
+BR2113,Audi Motors,1814
+BR2117,Audi Motors,1815
+BR2119,Audi Motors,1816
+BR2170,Izh  Motors,1817
+BR2231,Standard  Motors,1818
+BR2239,Standard  Motors,1819
+BR2248,Talbot  Motors,1820
+BR2263,Ramani Motors,1821
+BR2267,Ramani Motors,1822
+BR2280,Deccan Motors,1823
+BR2322,Blankinship Motor Company Building,1824
+BR2329,Blankinship Motor Company Building,1825
+BR2355,Cadillac Automobile Company Building,1826
+BR2359,Cadillac Automobile Company Building,1827
+BR2382,Claremore Auto Dealership,1828
+BR2385,Claremore Auto Dealership,1829
+BR2393,Clemens Automobile Company Building,1830
+BR2399,Clemens Automobile Company Building,1831
+BR2412,H Street Playhouse,1832
+BR2428,Howard Motor Company Building,1833
+BR2469,Kindel Building,1834
+BR2586,Datsun Motors,1835
+BR7446,Mercedes-Benz (including Maybach) Motors,1836
+BR9546,Premier Motors,1837
+BR9666,Puma Motors,1838
+XYZ9726,DataFam Motors,1839
+BR9726,Power Ranger Motors,1840

@@ -2,8 +2,8 @@
 
 ## 1. ADF Pipeline Overview
 
-    ![ADF Pipeline (Initial & Incremental)](Screenshots/updated increm pipeline.png)
-    ![ADF Pipeline (Git Load)](Screenshots/git load.png)
+![ADF Pipeline (Initial & Incremental)](updated%20increm%20pipeline.png)
+![ADF Pipeline (Git Load)](git%20load.png)
 
 
 This pipeline orchestrates the entire workflow including:

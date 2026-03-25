@@ -3,6 +3,7 @@
 ## 1. ADF Pipeline Overview
 
 ![ADF Pipeline (Initial & Incremental)](updated%20increm%20pipeline.png)
+**ADF Pipeline (Initial & Incremental)**
 ![ADF Pipeline (Git Load)](git%20load.png)
 
 

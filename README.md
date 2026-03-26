@@ -72,7 +72,7 @@ This project demonstrates an end-to-end Data Engineering pipeline built on Azure
 ## Data Model
 
 - **Fact Table**
-  - `fact_sales` → Revenue, Units Sold, Revenue per unit
+  - `fact_table` → Revenue, Units Sold, Revenue per unit
 
 - **Dimension Tables**
   - `dim_branch`

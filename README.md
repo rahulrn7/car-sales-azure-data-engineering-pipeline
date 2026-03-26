@@ -47,7 +47,7 @@ This project demonstrates an end-to-end Data Engineering pipeline built on Azure
 
 ### 5. Gold Layer (Star Schema)
 - Designed analytics-ready data model:
-  - Fact table: `fact_sales`
+  - Fact table: `fact_table`
   - Dimension tables:
     - `dim_branch`
     - `dim_dealer`
